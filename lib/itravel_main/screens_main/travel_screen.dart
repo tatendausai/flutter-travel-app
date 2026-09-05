@@ -9,9 +9,6 @@ import 'package:flutteritravelzw/itravel_main/widgets_main/trending_carousel.dar
 import 'package:flutteritravelzw/primary/models/hotel_page_model.dart';
 import 'package:flutteritravelzw/primary/models/activity_page_model.dart';
 import 'package:flutteritravelzw/primary/models/restaurant_page_model.dart';
-import 'package:flutteritravelzw/primary/models/hotel_page_model.dart';
-import 'package:flutteritravelzw/primary/models/activity_page_model.dart';
-import 'package:flutteritravelzw/primary/models/restaurant_page_model.dart';
 import 'package:flutteritravelzw/primary/models/travel_page_model.dart';
 import 'package:flutteritravelzw/primary/screens/home_screen.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
